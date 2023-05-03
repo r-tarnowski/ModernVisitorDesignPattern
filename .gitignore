@@ -1,0 +1,12 @@
+.cmake/*
+.idea/*
+.ninja_deps
+.ninja_log
+CMakeCache.txt
+CMakeFiles/*
+Testing/*
+bin/modern_visitor
+build.ninja
+cmake_install.cmake
+cmake-build-release
+
